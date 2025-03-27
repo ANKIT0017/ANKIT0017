@@ -1,4 +1,3 @@
-Below is a draft README in Markdown that you can use for your GitHub account. Feel free to adjust or add any additional details as needed.
 
 ---
 
