@@ -28,12 +28,13 @@ I have a strong background in Artificial Intelligence and Machine Learning with 
   <img src="https://img.shields.io/badge/Prompt%20Engineering-ff69b4?style=for-the-badge" alt="Prompt Engineering" />
 </div>
 
+---
+
 ## What I Do
 
 - **Personal Projects:** Continuously experimenting with and refining innovative solutions in computer vision and multimodal AI applications.
 - **Open Source Contributions:** Actively contributing to projects that aim to make AI more accessible and efficient.
-  
-## ** Open to new opportunities where I can leverage my skills to drive impactful change.**
+- **Job Hunting:** Open to new opportunities where I can leverage my skills to drive impactful change.
 
 ---
 
@@ -56,10 +57,24 @@ An innovative project that combines various data modalities to deliver a compreh
 
 ---
 
+## GitHub Stats & Trophies
+
+<div align="center">
+  <!-- Replace `your-github-username` with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ANKIT0017&show_icons=true&theme=tokyonight" alt="Ankit's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT0017&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=ANKIT0017&theme=onedark" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## Get In Touch
 
 I'm always excited to connect with like-minded professionals and enthusiasts. Whether you have a question, a project idea, or just want to chat about the latest in AI, feel free to reach out.
-  
+
+ 
 - [Email](mailto:ankitsuperku@gmail.com)
 
 ---
