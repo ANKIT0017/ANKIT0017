@@ -40,7 +40,7 @@ I have a strong background in Artificial Intelligence and Machine Learning with 
 
 ## 📂 Highlighted Projects
 
-###👓 Computer Vision Implementation
+### 👓 Computer Vision Implementation
 A robust project focused on creating state-of-the-art computer vision models. The project highlights:
 - Advanced image processing techniques.
 - Integration with deep learning frameworks.
