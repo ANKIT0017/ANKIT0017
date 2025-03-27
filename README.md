@@ -59,7 +59,7 @@ An innovative project that combines various data modalities to deliver a compreh
 
 ## GitHub Stats & Trophies
 
-<div align="center"> <table> <tr> <td align="center"> <!-- Replace `your-github-username` with your actual GitHub username --> <img src="https://github-readme-stats.vercel.app/api?username=ANKIT0017e&show_icons=true&theme=tokyonight" alt="Ankit's GitHub Stats" /> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT0017e&layout=compact&theme=tokyonight" alt="Top Languages" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ANKIT0017e&theme=onedark" alt="GitHub Trophies" /> </td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center"> <!-- Replace `your-github-username` with your actual GitHub username --> <img src="https://github-readme-stats.vercel.app/api?username=ANKIT0017&show_icons=true&theme=tokyonight" alt="Ankit's GitHub Stats" /> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT0017&layout=compact&theme=tokyonight" alt="Top Languages" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ANKIT0017&theme=onedark" alt="GitHub Trophies" /> </td> </tr> </table> </div>
 
 ---
 
