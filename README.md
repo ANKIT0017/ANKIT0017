@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I have a strong background in Artificial Intelligence and Machine Learning with specialized expertise in Unsupervised ML and Deep ML. I also have full-stack web development experience, proficient in both frontend and backend technologies. My journey in the tech industry has been fueled by personal projects, meaningful open source contributions, and the ongoing pursuit of new opportunities in the field.
+"AI/ML with expertise in **Unsupervised & Deep Learning**, plus full-stack web development mastery across **Frontend and Backend Technologies**.. My journey in the tech industry has been fueled by personal projects, meaningful open source contributions, and the ongoing pursuit of new opportunities in the field.
 
 ---
 ## 🛠️ Skills & Technologies
