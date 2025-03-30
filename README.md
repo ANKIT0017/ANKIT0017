@@ -65,7 +65,7 @@ An innovative project that combines various data modalities to deliver a compreh
 
 ## 🌐 Get In Touch
 
-I'm always excited to connect with like-minded professionals and enthusiasts. Whether you have a question, a project idea, or just want to chat about the latest in AI, feel free to reach out.
+I'm always excited to connect with like-minded professionals and corporates. Whether you have a question, a project idea, or just want to chat, feel free to reach out.
 
  
 - [Email](mailto:ankitsuperku@gmail.com)
