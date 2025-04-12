@@ -46,7 +46,7 @@ A robust project focused on creating state-of-the-art computer vision models. Th
 - Integration with deep learning frameworks.
 - Real-world applications and performance optimizations.
 
-### 🤖 Multimodal AI using Ollama
+### 🤖 Multimodal AI using Ollama and Langchain
 An innovative project that combines various data modalities to deliver a comprehensive AI solution:
 - Integrates text, images, and other sensor data.
 - Leverages advanced algorithms to produce insightful predictions.
